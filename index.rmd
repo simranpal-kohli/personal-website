@@ -1,0 +1,25 @@
+---
+title: "Simranpal Kohli"
+image: "image_6483441_2.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/simranpalkohli/"
+  - label: Blog
+    url: "https://medium.com/"
+  - label: Github
+    url: "https://github.com/simranpal-kohli/"
+  - label: Twitter
+    url: "https://twitter.com/MrKohli07"
+output:
+  postcards::trestles
+  
+---
+ 
+
+Simranpal Kohli is a Data Scientist based in Ireland. He started his career as a web developer for a pharmaceutical client Sanofi & then transitioned into Data analysis, report generation, automation, ML fields & worked for Reliance Industrial Limited.  
+He did his masters from Ireland & joined Apple as a Data Analyst. Major task included into data gathering, report generation using Tableau tool, automation of system processes. Currently, he is working as a Data Scientist (AI developer) for an AI based company Afiniti AI Limited in Ireland.
+ 
+ He can adept at leveraging cutting-edge BI tools and preparing data-driven reports as part of providing valuable insights for senior leadership and key business stakeholders. He is Proficient in spearheading & collaborating with high-performing teams to optimize 
+processes, complex problem-solving using AI/ML.
+
+
